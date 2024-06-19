@@ -81,7 +81,7 @@ Then follow these steps:
 
 ### 🛠Project Principle
 <p align="center">
-  <img src="./imgs/solve.png" alt="Logo" width="500" >
+  <img src="./imgs/solve.png" alt="Logo">
 </p>
 
 ### 🤗Team Members

@@ -84,7 +84,7 @@ git clone https://github.com/isaacJinyu/Math-Multi-Agent.git
 
 ### 🛠项目原理
 <p align="center">
-  <img src="./imgs/solve.png" alt="Logo" width="500" >
+  <img src="./imgs/solve.png" alt="Logo">
 </p>
 
 ### 🤗成员
